@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-03-02T20:56:21 IST" name="Default suite" finished-at="2020-03-02T20:57:50 IST" duration-ms="89210">
+    <groups>
+    </groups>
+    <test started-at="2020-03-02T20:56:21 IST" name="Default test" finished-at="2020-03-02T20:57:50 IST" duration-ms="89210">
+      <class name="Day_007_TestNG_DataProvider_Lab3.TC02_Login_NonStatic_Paarameters">
+        <test-method signature="Login_Test(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Day_007_TestNG_DataProvider_Lab3.TC02_Login_NonStatic_Paarameters@41fecb8b]" started-at="2020-03-02T20:56:23 IST" name="Login_Test" data-provider="TC01_Add_Nationality" finished-at="2020-03-02T20:57:07 IST" duration-ms="44198" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[RemoteWebDriver1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://opensource-demo.orangehrmlive.com/]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Mexicanss6629]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_Test -->
+        <test-method signature="Login_Test(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Day_007_TestNG_DataProvider_Lab3.TC02_Login_NonStatic_Paarameters@41fecb8b]" started-at="2020-03-02T20:57:07 IST" name="Login_Test" data-provider="TC01_Add_Nationality" finished-at="2020-03-02T20:57:50 IST" duration-ms="43142" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[RemoteWebDriver1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://opensource-demo.orangehrmlive.com/]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Mexicanss6630]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_Test -->
+      </class> <!-- Day_007_TestNG_DataProvider_Lab3.TC02_Login_NonStatic_Paarameters -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
